@@ -8,6 +8,7 @@ driver = webdriver.Chrome("PATH")  # Replace your chrome driver path with PATH w
 # Get insta site
 driver.get("https://www.instagram.com/")
 
+# Pause For 15 sec
 time.sleep(5)
 
 
