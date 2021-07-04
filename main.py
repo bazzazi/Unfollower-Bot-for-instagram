@@ -10,6 +10,7 @@
 
 # Developer: Mohammad Ali Bazzazi (me)
 
+########################### START ###########################
 # Import libraries
 from selenium import webdriver
 import time
@@ -60,6 +61,6 @@ for i in range(0,20):
 
     # Pause For 3 sec
     time.sleep(3)
-
+########################### END ###########################
 
 
